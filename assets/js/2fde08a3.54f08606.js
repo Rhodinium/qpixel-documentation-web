@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqpixel_documentation_web=self.webpackChunkqpixel_documentation_web||[]).push([[3442],{5703:e=>{e.exports=JSON.parse('{"label":"docusaurus","permalink":"/qpixel-documentation-web/blog/tags/docusaurus","allTagsPath":"/qpixel-documentation-web/blog/tags","count":4}')}}]);

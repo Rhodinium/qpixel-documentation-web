@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqpixel_documentation_web=self.webpackChunkqpixel_documentation_web||[]).push([[284],{2378:e=>{e.exports=JSON.parse('{"permalink":"/qpixel-documentation-web/blog/tags/docusaurus","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
