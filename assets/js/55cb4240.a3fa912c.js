@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqpixel_documentation_web=self.webpackChunkqpixel_documentation_web||[]).push([[860],{6402:e=>{e.exports=JSON.parse('{"permalink":"/qpixel-documentation-web/blog/tags/hola","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

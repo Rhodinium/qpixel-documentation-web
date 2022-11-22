@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkqpixel_documentation_web=self.webpackChunkqpixel_documentation_web||[]).push([[3414],{104:e=>{e.exports=JSON.parse('{"label":"hello","permalink":"/qpixel-documentation-web/blog/tags/hello","allTagsPath":"/qpixel-documentation-web/blog/tags","count":2}')}}]);
