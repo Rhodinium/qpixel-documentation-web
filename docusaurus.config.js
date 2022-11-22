@@ -57,9 +57,9 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: "Lazy Dev",
+        title: "Rhodinium",
         logo: {
-          alt: "JustLazzy",
+          alt: "Rhodinium",
           src: "img/me.png",
         },
         items: [
@@ -71,7 +71,7 @@ const config = {
           },
 
           {
-            href: "https://github.com/JustLazzy",
+            href: "https://github.com/Rhodinium",
             label: "GitHub",
             position: "right",
           },
