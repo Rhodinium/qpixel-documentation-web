@@ -1,0 +1,28 @@
+.features {
+  display: flex;
+  align-items: center;
+  padding: 2rem 0;
+  width: 100%;
+}
+
+.featureSvg {
+  height: 200px;
+  width: 200px;
+}
+
+.fImage {
+  height: 200px;
+}
+
+.fuck {
+  background-color: transparent;
+  opacity: 0.8;
+  background-size: 10px 10px;
+  background-image: repeating-linear-gradient(
+    -45deg,
+    #f7db45 0,
+    #f7db45 1px,
+    transparent 0,
+    transparent 50%
+  );
+}
