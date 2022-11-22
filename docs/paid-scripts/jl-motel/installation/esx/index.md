@@ -1,4 +1,0 @@
----
-id: esx
-title: ESX
----

@@ -6,4 +6,4 @@ id: docs
 
 # Documentation
 
-<b> Imagine, you don't read the documentation, and complaining that the script don't work 💀 </b>
+<b> Everything you need to know about QPixel V3 will be here [eventually]! </b>
